@@ -1,0 +1,6 @@
+name: RagePermissions
+author: abhi
+version: 1.0
+main: me.abhi.ragepermissions.RagePermissions
+commands:
+  group:
